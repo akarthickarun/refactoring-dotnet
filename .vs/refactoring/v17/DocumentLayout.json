@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|c:\\users\\karthickarunarumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\domainmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\domainmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\services\\chamberofcommerceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\services\\chamberofcommerceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\refactoring.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39ADE1A4-584C-4DA5-ACE1-F31399408B77}|Refactoring.Web\\Refactoring.Web.csproj|solutionrelative:refactoring.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Refactoring.Web\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Services\\OrderService.cs",
+              "RelativeToolTip": "Refactoring.Web\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:35:10.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\DomainModels\\Order.cs",
+              "RelativeDocumentMoniker": "Refactoring.Web\\DomainModels\\Order.cs",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\DomainModels\\Order.cs",
+              "RelativeToolTip": "Refactoring.Web\\DomainModels\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:39:09.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChamberOfCommerceAPI.cs",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Services\\ChamberOfCommerceAPI.cs",
+              "RelativeDocumentMoniker": "Refactoring.Web\\Services\\ChamberOfCommerceAPI.cs",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Services\\ChamberOfCommerceAPI.cs",
+              "RelativeToolTip": "Refactoring.Web\\Services\\ChamberOfCommerceAPI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:35:32.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Refactoring.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Refactoring.Web\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:34:52.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refactoring.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Refactoring.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:34:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Refactoring.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KarthickArunArumugam\\source\\repos\\refactoring-dotnet\\Refactoring.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Refactoring.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:32:50.308Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
